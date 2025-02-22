@@ -52,5 +52,10 @@ public class Main {
         char charValue = 'A';
 
         System.out.println("Char: " + charValue);
+
+        // String - non-primitive data type
+        String stringValue = "John";
+
+        System.out.println("String: " + stringValue);
     }
 }
